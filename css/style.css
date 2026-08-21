@@ -98,7 +98,7 @@ h6 {
 	padding: 0;
 	font-weight: normal;
 	line-height: normal;
-	color: #1f1f1f;
+	color: #8A8C8E;
 	margin: 0
 }
 
@@ -367,7 +367,7 @@ h2 {
 
 h3 {
     font-size: 21px;
-    color: #000;
+    
     line-height: normal;
     text-transform: none;
     margin-bottom: 10px;
@@ -1386,7 +1386,7 @@ footer,
 .zeus.tparrows:focus::before {
 	color: #fff !important;
 }
-
+/*
 #slide-18-layer-112 {
     font-family: 'Montserrat', sans-serif;
 }
@@ -1394,7 +1394,7 @@ footer,
 #slide-18-layer-11 {
     font-family: 'Montserrat', sans-serif;
 }
-
+*/
 .zeus.tparrows {
     cursor: pointer;
     min-width: 70px !important;
@@ -4769,7 +4769,7 @@ footer ul li a:focus {
     float: left;
     position: relative;
     box-shadow: none;
-    background: #666;
+    background: #8A8C8E;
 }
 
 .recent_slider_blog h3 {

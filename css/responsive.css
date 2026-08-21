@@ -2114,8 +2114,15 @@ header.header_style_2 {
 }
 
 #slider {
+	
     margin-top: -2px;
+	
 }
+
+.NotGeneric-Title {
+	font-size: 20px !important;
+}
+
 
 #navbar_menu.small-screen #menu-button {
     border: solid #666 2px;
@@ -2181,7 +2188,7 @@ p.large_2 br {
 
 .recent_slider .owl-nav {
     position: relative;
-    top: -20px;
+    /*top: -20px;*/
     width: 100%;
     margin: 0 auto;
     order: -1;
