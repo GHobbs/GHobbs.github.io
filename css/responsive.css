@@ -2408,12 +2408,13 @@ p.large_2 br {
 }
 
 .inner_banner_section {
-    min-height: 250px;
+    /*height: 80px !important;*/
+	padding: 0px;
 }
 
-.page-title {
-    margin-top: 80px;
-}
+/*.page-title {
+    /*margin-top: 80px;
+}*/
 
 .post_commt_form h4 {
     padding: 0 30px;
@@ -2435,6 +2436,11 @@ footer h3 {
 #navbar_menu > ul > li > a:focus {
 		background: #f5a202;
 		color: #fff !important;
+}
+
+.img_conheca {
+	position: relative;
+	top: -20px;
 }
 
 }
